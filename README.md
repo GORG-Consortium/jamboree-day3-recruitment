@@ -24,7 +24,7 @@ Down-stream processing required!
 ---
 #### Wrappers  
 [coverM](https://github.com/wwood/CoverM)  
-* [CoverM tutorial for SAGs](https://github.com/Bigelow-SCG-Course/Day3AM_read_recruitment)
+* [CoverM tutorial for SAGs](https://github.com/Bigelow-SCG-Course/Day3AM_read_recruitment)  
 [sag-mg-recruit](https://github.com/BigelowLab/sag-mg-recruit/tree/master)  
 
 ---
