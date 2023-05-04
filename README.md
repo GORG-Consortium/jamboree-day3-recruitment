@@ -9,14 +9,14 @@
 Nucleotide short read alignment
 Allows you to have complete control over parameters to fine tune your analyses  
 
-[bwa](https://bio-bwa.sourceforge.net/). 
+[bwa](https://bio-bwa.sourceforge.net/)  
 [bbmap](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/bb-tools-user-guide/bbmap-guide/)  
 [bowtie2](https://bowtie-bio.sourceforge.net/bowtie2/manual.shtml)  
 
 Protein-sequence-based  
 [Diamond](https://github.com/bbuchfink/diamond)
 
-Down-stream processing required! 
+Down-stream processing required!  
 * e.g. [samtools](http://www.htslib.org/), [rsamtools](https://bioconductor.org/packages/release/bioc/html/Rsamtools.html)  
 
 
@@ -24,6 +24,7 @@ Down-stream processing required!
 ---
 #### Wrappers  
 [coverM](https://github.com/wwood/CoverM)  
+* [CoverM tutorial for SAGs](https://github.com/Bigelow-SCG-Course/Day3AM_read_recruitment)
 [sag-mg-recruit](https://github.com/BigelowLab/sag-mg-recruit/tree/master)  
 
 ---
